@@ -12,6 +12,7 @@ I build at the intersection of:
 ## Featured repositories
 
 - [AiTnt](https://github.com/locqueliu/AiTnt) - desktop AI creative workstation
+- [esp32-agent-control-demo](https://github.com/locqueliu/esp32-agent-control-demo) - public-safe ESP32 AI agent control demo with MCP-style bridge design
 - [creative-portfolio-starter](https://github.com/locqueliu/creative-portfolio-starter) - visual-first portfolio starter for creative technologists
 - [aigc-visual-workflows](https://github.com/locqueliu/aigc-visual-workflows) - public-safe workflow showcase for AI image systems
 - [xiaozhi-esp32-selfhost-playbook](https://github.com/locqueliu/xiaozhi-esp32-selfhost-playbook) - self-host routing notes built with explicit upstream attribution
