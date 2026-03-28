@@ -2,29 +2,28 @@
 
 # Hi, I'm Locqueliu
 
-I build at the intersection of:
+[Chinese Version](./README_zh.md)
 
-- creative tooling
-- AI-assisted visual systems
-- embedded interaction
-- public-safe portfolio engineering
+I build across creative tooling, AI-assisted visual systems, embedded interaction, and workflow-heavy personal software.
+
+Most of the things I care about sit somewhere between design and engineering: desktop tools, AIGC production systems, interaction experiments, and projects that connect software logic with real devices.
 
 ## Featured repositories
 
 - [AiTnt](https://github.com/locqueliu/AiTnt) - desktop AI creative workstation
-- [esp32-agent-control-demo](https://github.com/locqueliu/esp32-agent-control-demo) - public-safe ESP32 AI agent control demo with MCP-style bridge design
-- [creative-portfolio-starter](https://github.com/locqueliu/creative-portfolio-starter) - visual-first portfolio starter for creative technologists
-- [aigc-visual-workflows](https://github.com/locqueliu/aigc-visual-workflows) - public-safe workflow showcase for AI image systems
-- [xiaozhi-esp32-selfhost-playbook](https://github.com/locqueliu/xiaozhi-esp32-selfhost-playbook) - self-host routing notes built with explicit upstream attribution
-- [stm32-desk-pet-extension-playbook](https://github.com/locqueliu/stm32-desk-pet-extension-playbook) - public-safe embedded interaction notes for desk pet secondary development
+- [esp32-agent-control-demo](https://github.com/locqueliu/esp32-agent-control-demo) - MCP-style control flow for AI-agent-driven ESP32 interaction
+- [creative-portfolio-starter](https://github.com/locqueliu/creative-portfolio-starter) - visual-first portfolio structure for creative work
+- [aigc-visual-workflows](https://github.com/locqueliu/aigc-visual-workflows) - structured AIGC workflow notes and validation
+- [xiaozhi-esp32-selfhost-playbook](https://github.com/locqueliu/xiaozhi-esp32-selfhost-playbook) - self-host routing notes around xiaozhi deployments
+- [stm32-desk-pet-extension-playbook](https://github.com/locqueliu/stm32-desk-pet-extension-playbook) - extension notes for an STM32 desk pet project
 
 ## What I like building
 
 - visual workflow tooling
 - AI-assisted production systems
-- portfolio sites with strong art direction
-- interaction design with technical depth
-- creative prototypes that can actually ship
+- desktop software with a clear working rhythm
+- interaction-heavy prototypes
+- embedded experiments with strong feedback loops
 
 ## Outside of code
 
@@ -38,6 +37,6 @@ I build at the intersection of:
 - Bilibili: [space.bilibili.com/442741846](https://space.bilibili.com/442741846)
 - Email: [locqueliu@outlook.com](mailto:locqueliu@outlook.com)
 
-## Public-safe note
+## Note
 
-Some of my real commercial and private exploratory work cannot be shared directly, so part of this profile is organized around reconstructed public-safe examples, upstream-attributed notes, and infrastructure repos.
+Some client work and exploratory branches stay private, so the repositories here mostly focus on the tools, workflows, and engineering patterns I can keep evolving in public.
