@@ -1,4 +1,4 @@
-![Profile banner](./assets/profile-banner.svg)
+![Profile banner](./assets/repo-banner.svg)
 
 # Hi, I'm Locqueliu
 
@@ -10,12 +10,12 @@ Most of the things I care about sit somewhere between design and engineering: de
 
 ## Featured repositories
 
-- [AiTnt](https://github.com/locqueliu/AiTnt) - desktop AI creative workstation
-- [esp32-agent-control-demo](https://github.com/locqueliu/esp32-agent-control-demo) - MCP-style control flow for AI-agent-driven ESP32 interaction
-- [creative-portfolio-starter](https://github.com/locqueliu/creative-portfolio-starter) - visual-first portfolio structure for creative work
-- [aigc-visual-workflows](https://github.com/locqueliu/aigc-visual-workflows) - structured AIGC workflow notes and validation
-- [xiaozhi-esp32-selfhost-playbook](https://github.com/locqueliu/xiaozhi-esp32-selfhost-playbook) - self-host routing notes around xiaozhi deployments
-- [stm32-desk-pet-extension-playbook](https://github.com/locqueliu/stm32-desk-pet-extension-playbook) - extension notes for an STM32 desk pet project
+- [AiTnt](https://github.com/locqueliu/AiTnt) - local desktop workspace for AI image, video, assets, and workflows
+- [esp32-agent-control-demo](https://github.com/locqueliu/esp32-agent-control-demo) - MCP-style control chain for AI-agent-driven ESP32 interaction
+- [creative-portfolio-starter](https://github.com/locqueliu/creative-portfolio-starter) - poster-led portfolio structure for visual, motion, 3D, and AI-heavy work
+- [aigc-visual-workflows](https://github.com/locqueliu/aigc-visual-workflows) - structured AIGC workflow notes for prompts, nodes, QA, and reusable output
+- [xiaozhi-esp32-selfhost-playbook](https://github.com/locqueliu/xiaozhi-esp32-selfhost-playbook) - self-host routing notes for xiaozhi-esp32 deployments and fallback handling
+- [stm32-desk-pet-extension-playbook](https://github.com/locqueliu/stm32-desk-pet-extension-playbook) - STM32 desk pet extension notes, module breakdowns, and interaction paths
 
 ## What I like building
 

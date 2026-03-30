@@ -1,4 +1,4 @@
-![Profile banner](./assets/profile-banner.svg)
+![Profile banner](./assets/repo-banner.svg)
 
 # 你好，我是 Locqueliu
 
@@ -11,10 +11,10 @@
 ## 这里比较值得先看的仓库
 
 - [AiTnt](https://github.com/locqueliu/AiTnt) - 我自己一直在磨的本地桌面 AI 创作工作站
-- [esp32-agent-control-demo](https://github.com/locqueliu/esp32-agent-control-demo) - 我整理的 AI Agent 控制 ESP32 的一条控制链路
-- [creative-portfolio-starter](https://github.com/locqueliu/creative-portfolio-starter) - 我自己会拿来改作品集的一套页面结构
-- [aigc-visual-workflows](https://github.com/locqueliu/aigc-visual-workflows) - 我在持续整理的 AIGC 工作流记录
-- [xiaozhi-esp32-selfhost-playbook](https://github.com/locqueliu/xiaozhi-esp32-selfhost-playbook) - 我记 xiaozhi 自托管部署思路的地方
+- [esp32-agent-control-demo](https://github.com/locqueliu/esp32-agent-control-demo) - 我整理 AI Agent 控制 ESP32 这条链路的地方
+- [creative-portfolio-starter](https://github.com/locqueliu/creative-portfolio-starter) - 我会拿来改作品集的一套页面底子
+- [aigc-visual-workflows](https://github.com/locqueliu/aigc-visual-workflows) - 我在持续收和整理的 AIGC 工作流记录
+- [xiaozhi-esp32-selfhost-playbook](https://github.com/locqueliu/xiaozhi-esp32-selfhost-playbook) - 我记 xiaozhi 自托管部署和路由处理的地方
 - [stm32-desk-pet-extension-playbook](https://github.com/locqueliu/stm32-desk-pet-extension-playbook) - 我拆 STM32 桌宠结构和扩展思路的地方
 
 ## 我比较爱做的方向
